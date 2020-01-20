@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository includes 8 modules with Ipython Notebooks created for the Introduction to Data Science Class (NYU Stern School of Business, Spring 2019). Each module includes data, code and description of each task within the Data Science Framework.
+This repository includes 8 modules with Ipython Notebooks (that can be opened in Colab) created for the Introduction to Data Science Class (NYU Stern School of Business, Spring 2019). Each module includes data, code and description of each task within the Data Science Framework.
 
 
 ## Motivation
@@ -17,6 +17,6 @@ The basic libraries required for the notebooks are: pandas, numpy, datetime, os,
 
 Prof. Foster Provost - NYU Stern School of Business [Website](http://people.stern.nyu.edu/fprovost/)
 
-Carlos Fernandez [Contact](https://www.linkedin.com/in/ferlocar/)
+Ben Wolfson [Contact](https://www.linkedin.com/in/ben-wolfson-61925a87/)
 
 Most of the examples and code in here come from Maria Leonor Zamora Maass [Github link](https://github.com/mariazm/Spring2017_ProfFosterProvost)
