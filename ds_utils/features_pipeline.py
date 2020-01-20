@@ -9,7 +9,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.pipeline import Pipeline, FeatureUnion, make_pipeline
 
 from sklearn.pipeline import Pipeline, FeatureUnion, make_pipeline
-from sklearn.preprocessing import OneHotEncoder, LabelBinarizer, StandardScaler, PolynomialFeatures, SimpleImputer, MinMaxScaler
+from sklearn.preprocessing import OneHotEncoder, LabelBinarizer, StandardScaler, PolynomialFeatures,  MinMaxScaler
 
 class ItemSelector(BaseEstimator, TransformerMixin):
     def __init__(self, key):
