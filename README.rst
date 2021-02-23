@@ -3,9 +3,9 @@ Foster 2020
 
 To use simply::
 
-    >>> import foster2020
+    >>> import foster_in_dev
 
 or 
 
-    >>> from foster2020 import decision_surface
+    >>> from foster_in_dev import decision_surface
 

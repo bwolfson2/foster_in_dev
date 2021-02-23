@@ -21,6 +21,6 @@ Ben Wolfson [Contact](https://www.linkedin.com/in/ben-wolfson-61925a87/)
 
 These notebooks are based on the prior work (w/Prof. Provost) of: 
 
-Carlos Fernandez [Github link](https://github.com/ferlocar)
+Ben Wolfson [Github link](https://github.com/ferlocar)
 Maria Zamora [Github link](https://github.com/mariazm/Spring2017_ProfFosterProvost)
 Rob Moakler [Github link](https://github.com/rmoakler)
